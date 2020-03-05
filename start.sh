@@ -1,8 +1,8 @@
 # 拉取代码
-# git pull
+git pull
 
 # 安装依赖和打包
-yarn --registry=https://registry.npm.taobao.org/ && yarn build
+npm install --registry=https://registry.npm.taobao.org/ && npm run build
 
 # 删除容器
 docker rm -f demo1 &> /dev/null
