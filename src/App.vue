@@ -1,12 +1,8 @@
 <template>
   <div id="app">
-    <img src="http://5b0988e595225.cdn.sohucs.com/images/20181022/1b01954eda7d4623b81d29010d4d6e64.jpeg"><br/>
+    <img src="https://gss3.bdstatic.com/84oSdTum2Q5BphGlnYG/timg?wapp&quality=80&size=b150_150&subsize=20480&cut_x=0&cut_w=0&cut_y=0&cut_h=0&sec=1369815402&srctrace&di=f4c99e3b274448207b811f3da3294fe6&wh_rate=null&src=http%3A%2F%2Fimgsrc.baidu.com%2Fforum%2Fpic%2Fitem%2Fd7650ac2d56285354a41a70398ef76c6a7ef6320.jpg"><br/>
     <h2>永远相信美好的事情即将发生</h2><br/>
-    <h2>我爱小米！！！</h2><br/>
-    <h2>我爱徐二狗</h2>
-    <h2>要平和～～～</h2>
-    <h2>武汉加油 中国加油</h2>
-    <h2>123123123</h2>
+    <h2>锤子手机</h2><br/>
   </div>
 </template>
 
