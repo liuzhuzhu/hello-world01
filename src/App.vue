@@ -1,10 +1,11 @@
 <template>
   <div id="app">
-    <img src="https://gss3.bdstatic.com/84oSdTum2Q5BphGlnYG/timg?wapp&quality=80&size=b150_150&subsize=20480&cut_x=0&cut_w=0&cut_y=0&cut_h=0&sec=1369815402&srctrace&di=f4c99e3b274448207b811f3da3294fe6&wh_rate=null&src=http%3A%2F%2Fimgsrc.baidu.com%2Fforum%2Fpic%2Fitem%2Fd7650ac2d56285354a41a70398ef76c6a7ef6320.jpg"><br/>
-    <h2>永远相信美好的事情即将发生</h2><br/>
-    <h2>锤子手机</h2><br/>
-    <h2>亲爱到，你慢慢飞，小心前面有脱壳到乌龟</h2>
-    <h2>亲爱的，来跳支舞</h2>
+    <img src="http://n.sinaimg.cn/sinacn17/327/w640h487/20180823/d245-hicsiav6449588.jpg"><br/>
+    <p>
+      唐纳德·特朗普（Donald Trump，1946年6月14日- ），出生于美国纽约，美国共和党籍政治家、企业家、房地产商人、电视人，第45任美国总统。
+      特朗普于1968年获得宾夕法尼亚大学沃顿商学院经济学学士学位，随后任职于父亲的房地产公司。1971年接管公司，从事房地产开发，投资范围逐步延伸至其他多个行业。特朗普于2015年6月以美国共和党人身份宣布参选美国总统，
+      2016年11月9日当选美国第45任总统，2017年1月20日宣誓就职。2019年9月24日，美国国会众议院启动针对特朗普的弹劾调查，12月18日经过全体投票通过两项弹劾条款。2020年2月5日，美国国会参议院否决了两项弹劾条款，弹劾失败
+    </p>
   </div>
 </template>
 
