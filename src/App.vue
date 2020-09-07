@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h2>预祝大家找到一份自己满意的工作~~~~</h2>
+    <h2>我是你爸爸</h2>
     <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1597570003269&di=112e1663da6ae0f089aa8f519d489c67&imgtype=0&src=http%3A%2F%2F03imgmini.eastday.com%2Fmobile%2F20181103%2F20181103152313_17aeb85b472e5c85f4753c21452e4939_2.jpeg"><br/>
     <img src = "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1597570003267&di=be2fe69e52597199ddbc1d5588f7fa63&imgtype=0&src=http%3A%2F%2Fu.candou.com%2Fs%2F500%2F2018%2F1104%2F1541302510524.jpeg"/>
     <p>
