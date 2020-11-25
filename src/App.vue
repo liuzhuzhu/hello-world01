@@ -1,9 +1,12 @@
 <template>
   <div id="app">
     <h2>预祝0522java全体学生前程似锦</h2>
-    <h2>预祝0522java全体学生前程似锦</h2>
-    <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1603448369683&di=2b57cbc2aefb46e98d289d30e681445a&imgtype=0&src=http%3A%2F%2F07imgmini.eastday.com%2Fmobile%2F20200928%2F20200928190700_9b19db8ba762bb449ac70a49ceae8e60_19.jpeg"/>
-    <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1603444352323&di=cb91bede6cfa10c179877910bd27847e&imgtype=0&src=http%3A%2F%2Fp0.itc.cn%2Fimages01%2F20201019%2F444b2ec6d9464f29ab8f94a0b21ca5cb.jpeg"/>
+   <img src="https://bkimg.cdn.bcebos.com/pic/c75c10385343fbf2b211d073b737dd8065380cd72100?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxODA=,g_7,xp_5,yp_5"/>
+   <div>
+     2001年，马保国陪儿子马晓阳到英国读书，因缺学费开始在英国开馆授徒，在英国授徒后，马保国自称被英国武术界誉为“功夫王”“当代李小龙”。 [1]
+     2004年，马保国在英国创立“英国混元太极拳协会”。
+   </div>
+
   </div>
 </template>
 
