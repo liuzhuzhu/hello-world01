@@ -1,13 +1,7 @@
 <template>
   <div id="app">
-    <h2>预祝0522java全体学生前程似锦</h2>
-      <h2>预祝0522java全体学生前程似锦</h2>
-   <img src="https://bkimg.cdn.bcebos.com/pic/c75c10385343fbf2b211d073b737dd8065380cd72100?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxODA=,g_7,xp_5,yp_5"/>
-   <div>
-     2001年，马保国陪儿子马晓阳到英国读书，因缺学费开始在英国开馆授徒，在英国授徒后，马保国自称被英国武术界誉为“功夫王”“当代李小龙”。 [1]
-     2004年，马保国在英国创立“英国混元太极拳协会”。
-   </div>
-
+    <h2>预祝0713java全体学生前程似锦</h2>
+   <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20180320%2Fa975cae569db4ff8b812461f2323260a.jpeg&refer=http%3A%2F%2F5b0988e595225.cdn.sohucs.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1613023632&t=444398adfd706a51f2da15ad2146e49b"/>
   </div>
 </template>
 
