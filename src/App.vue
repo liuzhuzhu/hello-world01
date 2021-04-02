@@ -5,6 +5,7 @@
       <p>祝 java0923 全体同学 拿到自己心仪的offer</p>
       <p>祝 java0923 全体同学 拿到自己心仪的offer</p>
    <img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3101694723,748884042&fm=26&gp=0.jpg"/>
+      <img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=316865976,2940650346&fm=26&gp=0.jpg"/>
   </div>
 </template>
 
