@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-      <p>java0923 全体同学 前程似锦</p>
+      <p>java0923 全体同学 行走的offer收割机</p>
       <p>java0923 全体同学 貌美如花</p>
       <p>祝 java0923 全体同学 拿到自己心仪的offer</p>
       <p>祝 java0923 全体同学 拿到自己心仪的offer</p>
